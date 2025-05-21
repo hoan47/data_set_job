@@ -6,5 +6,5 @@ This project collects and processes job postings data from [VietnamWorks](https:
 
 ## 📂 Data Files
 
-- Raw data from Wednesday collection, May 21, 2025, 6:10 PM.
+- Raw data from Wednesday collection, May 21, 2025, 6:10:42 PM.
 - Number of Records: 14217
